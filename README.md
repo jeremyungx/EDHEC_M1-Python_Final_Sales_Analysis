@@ -4,7 +4,7 @@ For the final assignment of the "Python Programming" course at EDHEC, we were pr
 Using this dataset, we were to highlight the strengths and weaknesses of the company.
 
 Details for the dataset "sales_data":
-‘ORDERNUMBER’. Identification of Order Placed. <br />
+‘ORDERNUMBER’. Identification of Order Placed. <br>
 ‘QUANTITYORDERED’. Number of items ordered. <br />
 ‘PRICEEACH’. Price of each item. <br />
 ‘ORDERLINENUMBER’. Identification number of the order line. <br />
